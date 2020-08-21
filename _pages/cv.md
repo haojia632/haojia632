@@ -9,32 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 本科，北京理工大学,机械与车辆学院，工业工程, 2008
+* 硕士，北京理工大学,机械与车辆学院，机械工程, 2010
+* 联培，美国密歇根大学，工学院，机械工程，2013
+* 博士，北京理工大学,机械与车辆学院，机械工程, 2014
 
-Work experience
+工作经历
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016 到 今: 副研究员
+  * 北京理工大学，宇航学院
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2014 到 2016: 博士后
+  * 北京理工大学，宇航学院
+
+* 2016 到 2017: 客座研究员
+  * 日本会津大学，计算机学院
+
 
 Publications
 ======
