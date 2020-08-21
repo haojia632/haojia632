@@ -1,16 +1,12 @@
 ---
 permalink: /
-title: "研究兴趣"
+# title: "研究兴趣"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-个人介绍
-======
-北京理工大学，机械与车辆学院，工业与智能系统工程研究所，副研究员，博士生导师
 
 研究兴趣
 ======
