@@ -84,7 +84,7 @@ author:
   avatar           : "haojia.jpg"
   bio              : "副研究员，博士生导师，工业与智能系统工程研究所，机械与车辆学院"
   location         : "Beijing, China"
-  employer         : "Beijing Institute of Technology"
+  employer         : # "Beijing Institute of Technology"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=azJWLX0AAAAJ&hl=en"
   email            :
