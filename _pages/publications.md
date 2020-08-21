@@ -1,9 +1,9 @@
 ---
 layout: archive
+title: "学术研究"
 permalink: /publications/
 author_profile: true
 ---
-# title: "学术研究"
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
